@@ -22,11 +22,16 @@ ul {
   list-style-type: none;
 }
 
+#continue-button {
+  background-image: linear-gradient( #FFE39D 49%, 
+  #FFE7AA 50%, #FFD057 51%);
+}
+
 #submit-button {
-  background-color: lightgray;
-  border-color:
+  background-image: linear-gradient(rgb(172, 172, 172),rgb(233, 233, 233));
+  border-color: black;
 }
 
 #submit-button:hover {
-  background-color: rgb(207, 204, 204);
+  background-color: rgb(206, 206, 206);
 }
